@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <title>KIST Elementary ICT</title>
+  </head>
+   
+  <body>
+
+  <header>
+    <h2><i>
+      <a href="index.html" class="header">Information Communication and Technology</a>
+    </i></h2> 
+  </header>
+  
+    <h1>
+      Grade 3 
+    </h1>
+
+  <section>
+
+  </section>
+ 
+  <section>
+<h2>Resources</h2> 
+<a href="https://compute-it.toxicode.fr/" class = "grades" target="_blank"> toxic code</a>
+  </section>
+
+ <footer>
+   	made by Emily Cobbs - emily.cobbs@kist.ed.jp
+    </footer>
+</html>

@@ -1,20 +1,66 @@
 body {
-  background: #00167a;
-  color: #ffe276f;
+  background: linear-gradient(135deg, #fff0b2, #ffe26f, #ffd21f);
+  animation: gradient 5s ease infinite;
+  color: #00167a;
+  font-family: 'Courier New', monospace;
 }
+.header{
+  color: #0325bd;
+  text-align: center;
+  font-family: OCR A Std, monospace;
+  text-decoration: none;
+  
+}
+.header:hover{
+ color: #00167a;
+}
+h1 {
+  color: #05cb94;
+  text-align: center;
+  font-family: OCR A Std, monospace;
+  font-size: 50px;
+}
+
+h2 {
+  text-align: center;
+  font-family: OCR A Std, monospace;
+  font-size: 40px;
+  color: #05cb94;
+}
+
 p {
   
 }
-h1 {
-   
+
+section{
+  padding: 20px 0;
+  margin: 10px; 
 }
 
-/* 
- color: dimgray;
-    background: rgba(165, 103, 166, 0.48);
-    font-weight: bold; 
-    text-align: center;
-    text-shadow: 0px 2px 0 rgba(0,0,0,.2);
-    line-height: 100%;
-    border-radius: 10px 5px; 
+.grades{
+  font-size: 30px;
+  background: #ffd21f;
+  color: #000e4b;
+  padding: 20px 40px;
+  margin: 20px, 10px;
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+  
+}
+.grades:hover{
+  background: #ffe26f;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  opacity: 0.8;
+
+}
+
+/*
+
+
 */
